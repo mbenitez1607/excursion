@@ -1,4 +1,4 @@
-* {
+body {
   font-family: Verdana;
   text-align: center;
   background-color: black;
@@ -19,4 +19,8 @@ h1 {
 }
 .image {
   text-align: center;
+}
+.CR {
+  text-align: right;
+  color: Gray;
 }
