@@ -1,0 +1,22 @@
+* {
+  font-family: Verdana;
+  text-align: center;
+  background-color: black;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+.download {
+  font-size: 16px;
+  color: Aquamarine;
+  text-decoration: underline;
+}
+.comment{
+  font-size: 21px;
+  color: Gray;
+}
+.image {
+  text-align: center;
+}
